@@ -1,23 +1,23 @@
 {
-  "created_utc": "2026-10-22T12:33:05.135683+00:00",
-  "candle_end_utc": "2026-10-22T12:30:00+00:00",
-  "deadline_utc": "2026-10-22T16:30:00+00:00",
-  "price": 81761.49,
-  "direction": 1,
-  "target": 82072.54,
-  "invalidation": 81605.97,
-  "ema5": 81757.71,
-  "ema13": 81843.29,
-  "ema50": 82492.04,
+  "created_utc": "2026-10-22T17:37:08.657751+00:00",
+  "candle_end_utc": "2026-10-22T17:30:00+00:00",
+  "deadline_utc": "2026-10-22T21:30:00+00:00",
+  "price": 81278.85,
+  "direction": null,
+  "target": null,
+  "invalidation": null,
+  "ema5": 81266.66,
+  "ema13": 81406.68,
+  "ema50": 81934.55,
   "ema_alignment": "BEARISH",
   "ema_confirmed": false,
-  "reward_risk": 2.0,
+  "reward_risk": 0.0,
   "decision": "NO TRADE",
-  "model_class": 2,
+  "model_class": 1,
   "probabilities": {
-    "down": 0.4462,
-    "neutral": 0.0889,
-    "up": 0.4649
+    "down": 0.2307,
+    "neutral": 0.3936,
+    "up": 0.3757
   },
   "model": "XGBoost ATR 90D"
 }
